@@ -10,6 +10,7 @@ Print the message "SOMA" with all the capital letters, with a blank space before
 |--------------|---------------|
 |     30       | SOMA = 40     |
 |     10       |               |
+|--------------|---------------|
 |     -30      | SOMA = -20    |
 |     10       |               |
 |--------------|---------------|
